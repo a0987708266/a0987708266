@@ -1,5 +1,7 @@
 ### Hi there 👋
 統資三乙
+
+喜歡打籃球，20歲
 <!--
 **a0987708266/a0987708266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
